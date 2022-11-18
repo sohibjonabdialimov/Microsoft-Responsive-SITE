@@ -349,5 +349,8 @@ a {
   .xbox .content {
     width: 70%;
   }
+  .footer-inner div{
+    margin-right: 50px;
+  }
 
 }
